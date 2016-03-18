@@ -1,0 +1,22 @@
+{
+  "name": "tinybutstrong/OpenTBS",
+  "version": "1.9.5",
+  "authors": [
+    {
+      "name": "tbs"
+    }
+  ],
+  "require": {
+    "php": ">=5.0.0",
+    "tinybutstrong/tinybutstrong": "3.*"
+  },
+  "dist": {
+    "url": "http://www.tinybutstrong.com/download/download.php?file=tbs_plugin_opentbs.zip&sid=2",
+    "type": "zip"
+  },
+  "autoload": {
+    "classmap": [
+      "tbs_plugin_opentbs.php"
+    ]
+  }
+}
